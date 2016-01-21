@@ -10,5 +10,9 @@
     "minimum-stability": "dev",
     "require": {
         "quallsbenson/illuminate": "v0.1.1"
-    }
+    },
+    "autoload": {
+        "Quallsbenson\\RepositoryHelpers" : ""
+    },
+    "target-dir" : "Quallsbenson/RepositoryHelpers"
 }
