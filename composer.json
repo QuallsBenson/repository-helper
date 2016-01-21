@@ -12,7 +12,9 @@
         "quallsbenson/illuminate": "v0.1.1"
     },
     "autoload": {
-        "Quallsbenson\\RepositoryHelpers" : ""
+        "psr-0":{
+            "Quallsbenson\\RepositoryHelpers" : ""
+        }
     },
     "target-dir" : "Quallsbenson/RepositoryHelpers"
 }
