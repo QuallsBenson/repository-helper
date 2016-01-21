@@ -1,0 +1,14 @@
+{
+    "name": "quallsbenson/repository-helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Lee",
+            "email": "get@coding-stuff.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "quallsbenson/illuminate": "v0.1.1"
+    }
+}

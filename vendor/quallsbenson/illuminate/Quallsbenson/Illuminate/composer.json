@@ -1,0 +1,20 @@
+{
+  "name": "quallsbenson/illuminate",
+  "description": "implements Repository pattern using Illuminate Database",
+  "authors": [
+    {
+      "name": "Ric Anthony Lee",
+      "email": "ricanthonylee@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Quallsbenson\\Illuminate": ""
+    }
+  },
+  "target-dir": "Quallsbenson/Illuminate",
+  "require": {
+    "illuminate/database": "~4.2",
+    "quallsbenson/repository": "dev-master"
+  }
+}
